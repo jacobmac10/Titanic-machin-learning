@@ -1,10 +1,12 @@
 # Titanic-machin-learning
 my first proyect usign machin learning to predict the survival list of the titanic using 5 models: 
-- DecisionTreeClassifier
--  SVR
--  sk_kneigbhors
--  RandomForestClassifier
--  KNeighborsClassifier
+- DecisionTreeClassifier,
+-  SVR,
+-  sk_kneigbhors,
+-  RandomForestClassifier,
+-  KNeighborsClassifier.
+
+
 In this proyect: 
 -i will analyze the Titanic data set, 
 - predict witch crew members survived,
