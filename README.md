@@ -1,8 +1,8 @@
 # Titanic-machine-learning
 My first proyect usign machine learning to predict the survival list of the titanic using 5 models: 
 - DecisionTreeClassifier,
--  SVR,
--  sk_kneigbhors,
+-  GaussianNB,
+-  LogisticRegression,
 -  RandomForestClassifier,
 -  KNeighborsClassifier.
 
