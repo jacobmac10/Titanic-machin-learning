@@ -1,4 +1,4 @@
-# Titanic-machin-learning
+# Titanic-machine-learning
 my first proyect usign machin learning to predict the survival list of the titanic using 5 models: 
 - DecisionTreeClassifier,
 -  SVR,
